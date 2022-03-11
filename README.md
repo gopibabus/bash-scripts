@@ -1,2 +1,3 @@
 # bash-scripts
-Bash Scripts
+
+Bash Scripts for day to day use cases.
